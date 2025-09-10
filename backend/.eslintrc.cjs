@@ -18,6 +18,7 @@ module.exports = {
     '@typescript-eslint/no-explicit-any': 'warn',
     'prefer-const': 'warn',
     'no-console': 'off',
+    'no-unused-vars': 'off',
     'no-undef': 'off'
   },
   overrides: [
